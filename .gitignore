@@ -2,3 +2,9 @@
 .idea/
 __pycache__/
 *.pyc
+env/
+.env
+*.log*
+Dockerfile
+docker-compose-full.yml
+.pytest_cache/
